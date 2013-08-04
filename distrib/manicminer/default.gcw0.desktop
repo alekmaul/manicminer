@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=ManicMiner
+Comment=Guide Miner Willy through each level
+Exec=manicminer-gcw0.dge
+Icon=icon
+Categories=games;
+X-OD-Manual=readme.txt
